@@ -2,7 +2,7 @@
   "name": "nochda",
   "short_name": "nochda",
   "description": "Täglicher Check-in für Menschen die allein leben.",
-  "start_url": "/app",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
